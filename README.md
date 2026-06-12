@@ -24,7 +24,7 @@ The game was developed using Python 3.14. The primary library used was Pygame, w
 
 {Make a list of websites that you found helpful in this project}
 * [Web Site Name](https://youtu.be/FfWpgLFMI7w?si=QP7DaufcQlpFlIr2)
-* [Web Site Name](https://youtu.be/wRiCKCdnLHY?si=OBQL0TRB5asX8STX)
+* [Web Site Name](https://youtube.com/playlist?list=PLCC34OHNcOtpOG96Uwh3VGkmpZ7qTB5dx&si=chWZK-hvRqZIyLU0)
 
 # Future Work
 
