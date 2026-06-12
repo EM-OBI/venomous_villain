@@ -23,8 +23,8 @@ The game was developed using Python 3.14. The primary library used was Pygame, w
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](https://youtu.be/FfWpgLFMI7w?si=QP7DaufcQlpFlIr2)
-* [Web Site Name](https://youtube.com/playlist?list=PLCC34OHNcOtpOG96Uwh3VGkmpZ7qTB5dx&si=chWZK-hvRqZIyLU0)
+* [FreeCodeCamp on YouTube](https://youtu.be/FfWpgLFMI7w?si=QP7DaufcQlpFlIr2)
+* [John Elder on Youtube](https://youtube.com/playlist?list=PLCC34OHNcOtpOG96Uwh3VGkmpZ7qTB5dx&si=chWZK-hvRqZIyLU0)
 
 # Future Work
 
