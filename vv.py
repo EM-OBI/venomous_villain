@@ -186,7 +186,7 @@ while running:
     # Add border
     pygame.draw.rect(screen, foreground_color, (OFFSET-5, OFFSET-5, cell_size*number_of_cells + 10, cell_size*number_of_cells + 10), 5)
 
-    # Create surface for font
+    # Create surface for fonts and draw them with .blit()
     title_surface = title_font.render("Venomous Villain", True, foreground_color )
     screen.blit(title_surface, (OFFSET-5, 20))
 
